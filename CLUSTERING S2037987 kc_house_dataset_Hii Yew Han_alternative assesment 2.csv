@@ -1,0 +1,200 @@
+price,bedrooms,bathrooms,floors,waterfront,grade,sqft_above,sqft_basement,grade_lvl,price_lvl,gender,area_name
+538000,3,2.25,2,0,7,2170,400,High,2,Male,Seattle
+229500,3,1,1,0,7,1050,730,High,0,Female,Seattle
+662500,3,2.5,1,0,8,1860,1700,High,2,Male,Bellevue
+650000,4,3,2,0,9,1980,970,High,2,Male,Seattle
+230000,3,1,1,0,7,1250,0,High,0,Female,Federal Way
+329000,3,2.25,2,0,8,2450,0,High,1,Male,Kent
+438000,3,1.75,1,0,7,790,730,High,1,Female,Seattle
+280000,2,1.5,3,0,7,1190,0,High,0,Male,Seattle
+550000,4,1,1,0,5,930,730,Low,2,Male,Redmond
+240000,4,1,1,0,7,890,330,High,0,Male,Auburn
+625000,4,2.5,2,0,9,2570,0,High,2,Female,Sammamish
+775000,4,2.25,1,0,8,2600,1620,High,3,Female,Seattle
+861990,5,2.75,2,0,9,3595,0,High,3,Female,Redmond
+488000,3,2.5,2,0,8,3160,0,High,2,Female,Duvall
+210490,3,1,1,0,6,990,0,Low,0,Male,Federal Way
+450000,3,1.75,1,0,7,1250,0,High,1,Male,Seattle
+228000,3,1,1,0,7,1190,0,High,0,Male,Seattle
+345000,5,2.5,1,0,8,1640,1510,High,1,Male,Renton
+600000,3,1.75,1,0,7,1000,410,High,2,Male,Seattle
+585000,2,1.75,1,0,7,990,990,High,2,Male,Seattle
+885000,4,2.5,2,0,9,2830,0,High,3,Female,Seattle
+292500,4,2.5,2,0,7,2250,0,High,0,Male,Kent
+301000,3,2.5,2,0,8,2420,0,High,1,Female,Kent
+951000,5,3.25,2,0,8,3250,0,High,3,Male,Bellevue
+430000,4,3,2,0,8,1850,0,High,1,Female,Renton
+650000,3,2.25,1,0,8,1590,560,High,2,Male,Seattle
+289000,3,1.75,1,0,7,1260,0,High,0,Female,Seattle
+505000,3,1.75,2,0,8,2519,0,High,2,Male,Seattle
+549000,3,1.75,3,0,8,1540,0,High,2,Male,Seattle
+425000,3,2.25,1,0,7,1110,550,High,1,Male,Seattle
+975000,4,2.5,2,0,10,2720,0,High,3,Male,Bellevue
+287000,4,2.5,2,0,7,2240,0,High,0,Male,Auburn
+204000,3,1,1,0,7,1000,0,High,0,Female,Kent
+325000,3,2,1,0,7,1260,0,High,1,Male,Kirkland
+360000,4,2.5,2,0,8,2380,0,High,1,Male,Maple Valley
+349000,3,1.75,1,0,7,1090,700,High,1,Female,Kent
+832500,4,4,2,0,10,2390,1040,High,3,Female,Sammamish
+380000,4,1.75,1,0,7,880,880,High,1,Female,Bellevue
+480000,3,1,1,0,7,1040,0,High,2,Female,Seattle
+410000,3,1,1,0,7,910,500,High,1,Female,Seattle
+720000,4,2.5,2,0,10,3450,0,High,3,Female,Black Diamond
+390000,3,2.5,2,0,8,2350,0,High,1,Male,Maple Valley
+360000,4,2.5,2,0,7,1900,0,High,1,Male,Maple Valley
+355000,2,1,1,0,7,1010,1010,High,1,Male,Seattle
+315000,3,1,1,0,6,960,0,Low,1,Female,Seattle
+940000,3,1.5,2,0,9,1900,240,High,3,Female,Seattle
+461000,3,3.25,2,0,9,1980,790,High,2,Female,Renton
+215000,2,2.25,2,0,7,1610,0,High,0,Male,Renton
+243500,4,2.5,2,0,7,1980,0,High,0,Female,Federal Way
+153000,3,1,1,0,7,1200,0,High,0,Male,Federal Way
+430000,3,1.5,1,0,8,1290,290,High,1,Female,Seattle
+700000,3,1.5,1,0,8,1290,290,High,2,Female,Seattle
+905000,4,2.5,1,0,7,2390,910,High,3,Male,Mercer Island
+199000,4,1.5,1,0,7,1160,0,High,0,Male,Federal Way
+314000,3,1.75,1,0,7,1210,600,High,1,Male,Maple Valley
+437500,3,2.5,2,0,9,2320,0,High,1,Male,North Bend
+699950,3,2.25,2,0,8,2190,0,High,2,Female,Woodinville
+290000,3,1,1,0,7,1210,0,High,0,Female,Renton
+375000,3,2.5,1,0,8,1460,880,High,1,Male,Renton
+188500,2,1.75,1,0,8,1240,0,High,0,Female,Seattle
+680000,4,2.5,2,0,10,3140,0,High,2,Male,Woodinville
+597750,4,2.5,2,0,8,2310,0,High,2,Female,Issaquah
+570000,3,2.5,1,0,6,700,560,High ,2,Female,Seattle
+272500,3,1.75,1,0,7,1160,380,Medium,0,Male,Maple Valley
+329950,3,1.75,1,0,7,1080,1000,Medium,1,Male,Seattle
+480000,4,1.75,2,0,9,2520,710,Medium,2,Male,Auburn
+740500,3,2.5,2,0,8,2780,1600,High,3,Female,Seattle
+518500,3,3.5,3,0,8,1590,0,High,2,Male,Seattle
+205425,2,3.5,1,0,6,880,0,High,0,Female,Seattle
+171800,4,1,1,0,6,1570,0,Low,0,Male,Seattle
+660000,3,1,1,0,8,1560,840,Low,2,Male,Seattle
+391500,3,2.5,1,0,7,1450,0,High,1,Female,Kirkland
+395000,2,2,1,0,6,770,0,Medium,1,Male,Seattle
+770000,3,1.75,2,0,9,2910,0,Medium,3,Male,Redmond
+212000,3,1.75,1,0,7,1060,0,High,0,Male,Auburn
+675000,4,3.5,3,0,9,2140,0,High,2,Male,Seattle
+199000,3,1.75,1,0,7,1320,0,High,0,Female,Federal Way
+220000,4,1.75,1,0,7,1010,1010,High,0,Male,Federal Way
+452000,4,2.25,1,0,8,1340,1250,High,2,Female,Kenmore
+382500,2,1,1,0,6,1190,0,Low,1,Male,Seattle
+519950,3,2.25,3,0,8,1170,0,High,2,Male,Seattle
+527700,5,2.5,1,0,8,1550,1270,High,2,Female,Bellevue
+205000,3,1,1,0,7,1010,600,High,0,Female,Renton
+500000,4,2.25,1,0,8,1380,650,High,2,Male,Bellevue
+921500,4,2.5,2,0,9,3670,0,High,3,Female,Woodinville
+430000,2,2.5,2,0,7,2420,0,High,1,Male,Issaquah
+258000,5,2,1,0,8,1130,1130,High,0,Female,Kent
+511000,3,1,1,0,7,980,450,High,2,Female,Seattle
+532170,3,2,2,0,8,1360,0,High,2,Female,Seattle
+282950,3,1,1,0,7,1250,0,High,0,Male,Federal Way
+350000,1,1,1,0,7,700,0,High,1,Male,Seattle
+215000,3,1,1,0,7,1180,0,High,0,Male,Renton
+650000,5,3.5,2,0,9,2500,1460,High,2,Male,Renton
+320000,4,2.75,1,0,8,1620,1020,High,1,Female,Federal Way
+320000,4,1.75,1,0,8,1760,0,High,1,Female,Renton
+255000,5,2.25,1,0,7,1030,1030,High,0,Female,Seattle
+438000,3,1.75,1,0,7,1780,0,High,1,Female,Kirkland
+900000,3,2.5,2,0,10,3400,0,High,3,Female,Sammamish
+441000,3,2.75,1,0,7,1160,750,High,1,Male,Kirkland
+420000,3,2,1,0,7,1010,1010,High,1,Male,Issaquah
+370000,3,1.75,1,0,7,1180,400,High,1,Female,Kirkland
+269950,2,1.75,1,0,5,700,640,Low,0,Female,Seattle
+807100,4,2.5,2,0,9,2680,0,High,3,Female,Bellevue
+653000,3,2.5,1,0,8,1610,1070,High,2,Female,Kirkland
+371500,3,2,1,0,7,1370,0,High,1,Female,Seattle
+284000,3,1.75,1,0,7,1560,0,High,0,Male,Seattle
+272000,3,1.75,1,0,7,1670,490,High,0,Male,Federal Way
+917500,4,2.5,2,0,10,2570,1310,High,3,Female,Kirkland
+673000,4,2.25,2,0,8,2590,0,High,2,Female,Bellevue
+425000,3,2.5,2,0,8,820,300,High,1,Female,Seattle
+399950,5,2.75,1,0,7,1320,650,High,1,Male,Seattle
+385000,3,1,1,0,6,1220,0,Low,1,Male,Seattle
+269950,3,1.5,1,0,7,1320,630,High,0,Female,Enumclaw
+330000,2,1,1,0,7,1060,290,High,1,Female,Seattle
+260000,3,2.5,2,0,7,1670,0,High,0,Female,Kent
+589000,4,3,2,0,7,2440,0,High,2,Male,Kirkland
+163500,2,1.5,2,0,7,1050,0,High,0,Female,Maple Valley
+835000,4,2.75,2,0,9,2140,990,High,3,Male,Redmond
+269000,4,1.75,1,0,8,1100,390,High,0,Female,Federal Way
+560000,3,2.5,2,0,8,1900,0,High,2,Female,Sammamish
+585188,3,2.25,1,0,8,1430,800,High,2,Female,Redmond
+305000,3,1.75,1,0,7,1220,430,High,1,Female,Kirkland
+166950,3,1,1,0,6,1190,0,Low,0,Female,Renton
+799000,3,2.5,1,0,8,2140,0,High,3,Male,Mercer Island
+400000,3,2.5,1,0,7,1420,760,High,1,Female,Seattle
+230000,3,1,1,0,7,1060,0,High,0,Female,Seattle
+256883,3,2.5,2,0,8,1690,0,High,0,Male,Federal Way
+465000,3,2.5,2,0,8,2150,0,High,2,Male,Seattle
+440000,3,2.5,2,0,7,1910,0,High,1,Female,Fall City
+385000,3,1.75,1,0,7,1350,0,High,1,Female,Maple Valley
+210000,3,1,1,0,6,860,0,Low,0,Male,Renton
+297000,3,2.5,2,0,8,1940,0,High,0,Male,Kent
+470000,3,1,1,0,7,1010,0,High,2,Male,Seattle
+226500,3,1.5,1,0,7,900,400,High,0,Male,Federal Way
+274250,3,1,1,0,6,910,0,Low,0,Female,Renton
+840000,4,1.75,1,0,9,1630,850,High,3,Male,Mercer Island
+677900,3,2.5,2,0,8,2440,0,High,2,Female,Redmond
+425000,3,1,1,0,7,1010,0,High,1,Female,Seattle
+180250,2,0.75,1,0,6,900,0,Low,0,Male,Seattle
+464000,6,3,2,0,7,1600,700,High,2,Male,Seattle
+320000,4,2.25,2,0,8,1550,0,High,1,Female,Maple Valley
+625504,3,2.25,2,0,8,1060,210,High,2,Female,Seattle
+592500,4,2.5,1,0,9,2240,0,High,2,Female,Sammamish
+465000,3,2.5,2,0,9,2714,0,High,2,Male,Auburn
+477000,4,2.75,2,0,8,1720,0,High,2,Male,Seattle
+280000,2,1,1,0,6,850,0,Low,0,Male,Seattle
+445838,3,2.5,2,0,8,2250,0,High,1,Male,Seattle
+467000,2,1.5,1,0,8,1320,0,High,2,Male,Seattle
+686000,4,2.5,2,0,10,2760,0,High,2,Male,Sammamish
+279950,3,2,1,0,7,1350,400,High,0,Male,Seattle
+527000,4,2.25,2,0,8,2330,0,High,2,Male,Bothell
+325000,3,2.25,1,0,8,1780,440,High,1,Male,Kent
+328000,3,2.25,2,0,7,2020,0,High,1,Female,Maple Valley
+390000,3,2.25,1,0,7,1250,0,High,1,Female,Seattle
+479950,2,2,1,0,8,1510,0,High,2,Male,Redmond
+264950,4,2.25,1,0,7,1120,600,High,0,Male,Federal Way
+235000,3,1,1,0,7,980,450,High,0,Female,Kent
+516500,3,2.5,2,0,7,1480,0,High,2,Female,Redmond
+655000,2,1.75,2,1,7,1230,220,High,2,Male,Seattle
+500000,4,2.75,1,0,7,2280,0,High,2,Female,Renton
+315000,6,2.75,1,0,8,1780,1160,High,1,Male,Federal Way
+213000,2,1,1,0,6,1000,0,Low,0,Female,Fall City
+416000,3,2,1,0,7,1640,580,High,1,Female,Black Diamond
+800000,3,3.5,2,0,10,3530,300,High,3,Female,Woodinville
+472000,6,2.5,1,0,9,2350,2060,High,2,Male,Federal Way
+225000,3,1.75,1,0,7,1430,0,High,0,Female,Federal Way
+210000,2,1,1,0,6,830,0,Low,0,Male,Seattle
+225000,3,1,1,0,6,1300,0,Low,0,Female,Auburn
+480000,2,1,1,0,7,790,240,High,2,Female,Seattle
+363000,3,2.5,2,0,9,2740,0,High,1,Male,Federal Way
+181000,2,1.5,1,0,6,720,0,Low,0,Female,Seattle
+250000,4,2,1,0,7,2010,0,High,0,Male,Auburn
+481000,3,1.75,1,0,6,770,790,Low,2,Female,Seattle
+260000,3,2,1,0,7,1240,570,High,0,Female,Kent
+455000,4,2.5,2,0,9,3360,0,High,2,Male,Renton
+415000,3,2.25,2,0,8,1510,0,High,1,Female,North Bend
+349500,3,1,1,0,7,800,600,High,1,Male,Seattle
+245000,3,2.5,2,0,7,1730,0,High,0,Male,Kent
+385000,4,1.75,1,0,7,1180,1180,High,1,Male,Seattle
+315000,3,1.75,1,0,7,1200,380,High,1,Female,Renton
+255000,3,1,1,0,7,1230,0,High,0,Male,North Bend
+693000,4,2.5,2,0,8,2460,0,High,2,Female,Redmond
+237000,3,1.75,1,0,7,1270,0,High,0,Female,Seattle
+525000,3,2.25,2,0,10,1320,780,High,2,Male,Sammamish
+425000,2,1,1,0,5,770,0,Low,1,Male,Seattle
+369900,1,0.75,1,1,5,760,0,Low,1,Female,Vashon
+290000,4,2.5,2,0,7,1700,0,High,0,Female,Kent
+285000,3,1,1,0,7,1120,0,High,0,Female,Seattle
+415000,2,1,1,0,7,1070,0,High,1,Female,Seattle
+272500,3,2.5,1,0,8,1420,650,High,0,Female,Federal Way
+436000,2,1,1,0,7,1040,0,High,1,Female,Seattle
+210000,3,1,1,0,7,1700,0,High,0,Male,Federal Way
+236000,3,1,1,0,7,1300,0,High,0,Female,Seattle
+331000,3,1.75,1,0,7,580,500,High,1,Female,Seattle
+365000,3,2.5,2,0,8,2653,0,High,1,Male,Kent
+450000,3,2,1,0,8,2290,0,High,1,Female,Renton
+770000,4,2.75,2,0,9,2850,970,High,3,Female,Kenmore
+455000,4,2.5,1,0,8,2210,0,High,2,Male,Maple Valley
+405000,3,1.75,1,0,6,1240,1150,Low,1,Female,Seattle
